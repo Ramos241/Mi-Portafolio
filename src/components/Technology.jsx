@@ -6,9 +6,6 @@ export default function Technology () {
       <div className='flex justify-center mb-14'>
         <h2 className='text-center text-4xl md:text-5xl font-bold text-gray-700 dark:text-slate-300 mb-5'>TECNOLOGÍAS</h2>
       </div>
-      <div className='mb-10 font-normal text-xl dark:text-white'>
-        <p>Estas son algunas tecnologias con la que desarrollo:</p>
-      </div>
       <div className='grid grid-cols-2 gap-4 max-w-6xl md:grid-cols-5'>
         {technologies.map((card) => (
           <div

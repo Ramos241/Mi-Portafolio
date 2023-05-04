@@ -20,7 +20,7 @@ export default function Header () {
             <div className='flex lg:w-0 lg:flex-1'>
               <a href='/' className='-m-1.5 p-1.5'>
                 <span className='sr-only'>Logo</span>
-                <img className='w-14 h-auto' src='/logo-ds.svg' alt='logo' />
+                {/* <img className='w-14 h-auto' src='/logo-ds.svg' alt='logo' /> */}
               </a>
             </div>
             <nav className='hidden lg:flex lg:gap-x-11'>

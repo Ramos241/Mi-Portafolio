@@ -20,9 +20,9 @@ function App () {
               <h1 className='text-5xl font-bold tracking-tight text-gray-700 dark:text-slate-300 sm:text-6xl md:text-6xl lg:text-8xl'>
                 Hola! 👋{' '}
                 <br className='hidden sm:block' />
-                Soy Damián
+                Soy Gabriel Ramos
               </h1>
-              <h2 className='text-3xl font-semibold text-gray-700 dark:text-slate-300'>Programador Front-end</h2>
+              <h2 className='text-3xl font-semibold text-gray-700 dark:text-slate-300'>Desarrollador Web</h2>
               <SocialsNav />
             </section>
           </div>

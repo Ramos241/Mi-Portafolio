@@ -17,7 +17,7 @@ export default function Footer () {
         ))}
       </div>
       <div className='mt-8 md:mt-0'>
-        <small className='block text-center text-base text-gray-400 dark:text-white'>2023 • Damian Soto Concha.</small>
+        <small className='block text-center text-base text-gray-400 dark:text-white'>• Gabriel Ramos - Desarrollador Web.</small>
       </div>
     </footer>
   )
